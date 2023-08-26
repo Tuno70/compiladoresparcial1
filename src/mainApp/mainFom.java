@@ -57,7 +57,7 @@ public class mainFom extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 204));
+        jPanel1.setBackground(new java.awt.Color(204, 255, 204));
 
         InputTextArea.setColumns(20);
         InputTextArea.setFont(new java.awt.Font("Monospaced", 1, 18)); // NOI18N
@@ -130,7 +130,7 @@ public class mainFom extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jPanel2.setBackground(new java.awt.Color(204, 204, 204));
+        jPanel2.setBackground(new java.awt.Color(204, 255, 204));
 
         jButton1.setText("Flujo de Caracteres");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -139,6 +139,7 @@ public class mainFom extends javax.swing.JFrame {
             }
         });
 
+        jButton2.setBackground(new java.awt.Color(204, 102, 0));
         jButton2.setText("Salir");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

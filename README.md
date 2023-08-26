@@ -1,4 +1,5 @@
 # compiladoresparcial1
+PROYECTO EN GRUPO 
 
 Analizador Léxico
 Este programa es un analizador léxico diseñado En requisito de nuestro parcial 1 del curso de compiladores, el motivo del proyecto es analizar archivos y detectar tokens válidos según las especificaciones del lenguaje. 
