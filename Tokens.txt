@@ -1,0 +1,61 @@
+while    Palabras Reservada
+(    Signo Abrir Parentesis
+Split    Variable
+[    Signo Abrir Corchete
+i    Variable
+]    Signo Cerrar Corchete
+!=    Operador No Es Igual
+{    Signo Abrir llave
+PalabraAux    Variable
+=    Signo igual simple
+PalabraAux    Variable
++    Operador Suma
+String    Variable
+.    Signo Punto
+valueOf    Variable
+(    Signo Abrir Parentesis
+Split    Variable
+[    Signo Abrir Corchete
+i    Variable
+]    Signo Cerrar Corchete
+)    Signo Cerrar Parentesis
+;    Signo Punto y Coma
+i    Variable
++    Operador Suma
++    Operador Suma
+;    Signo Punto y Coma
+}    Signo Cerrar llave
+PalabraAux    Variable
+=    Signo igual simple
+PalabraAux    Variable
++    Operador Suma
+String    Variable
+.    Signo Punto
+valueOf    Variable
+(    Signo Abrir Parentesis
+Split    Variable
+[    Signo Abrir Corchete
+i    Variable
+]    Signo Cerrar Corchete
+)    Signo Cerrar Parentesis
+;    Signo Punto y Coma
+Resultado_Split    Variable
+=    Signo igual simple
+Resultado_Split    Variable
++    Operador Suma
+PalabraAux    Variable
++    Operador Suma
+"    Cadena de Texto"    Cadena de Texto
++    Operador Suma
+"\n"    Cadena de Texto
+;    Signo Punto y Coma
+Columna    Variable
+=    Signo igual simple
+Columna    Variable
++    Operador Suma
+1    Numero Entero
+;    Signo Punto y Coma
+PalabraAux    Variable
+=    Signo igual simple
+""    Cadena de Texto
+;    Signo Punto y Coma
