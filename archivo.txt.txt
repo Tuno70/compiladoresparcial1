@@ -1,0 +1,14 @@
+public class SumaArreglo {
+    public static void main(String[] args) {
+        double[] numeros = { 2.5, 4.8, 1.2, 3.7, 5.1 }; 
+
+       
+        double resultado = 0;
+        for (int i = 0; i < numeros.length; i++) {
+            resultado += numeros[i];
+        }
+
+        
+        System.out.println("La suma de los números es: " + resultado);
+    }
+}
